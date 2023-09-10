@@ -4,5 +4,4 @@ Desktop.ini
 
 # Compiled binaries
 *.out
-bin/*
-
+bin/
