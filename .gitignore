@@ -5,3 +5,7 @@ Desktop.ini
 # Compiled binaries
 *.out
 bin/
+
+# Large files
+*.pdf
+*.zip
